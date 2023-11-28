@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "cơn mưa",
+      "price": "3243",
+      "category": "women",
+      "image": "https://watermark.lovepik.com/photo/20211124/large/lovepik-fashion-womens-summer-shopping-image-picture_500961857.jpg",
+      "description": "34444444444444444",
+      "id": 5
+    },
+    {
+      "name": "nnb",
+      "price": "2",
+      "category": "women",
+      "image": "https://watermark.lovepik.com/photo/20211124/large/lovepik-fashion-womens-summer-shopping-image-picture_500961857.jpg",
+      "description": "fddđ",
+      "id": 6
+    }
+  ]
+}

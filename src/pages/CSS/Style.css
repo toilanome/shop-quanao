@@ -1,0 +1,200 @@
+.discover h2 {
+    font-size: 200px;
+}
+
+.des-banner p {
+    margin-top: 10px;
+    padding-right: 90px;
+    width: 565px;
+    margin-bottom: 30px;
+}
+
+.des-banner-btn {
+    width: 258px;
+    height: 74px;
+    background-color: #224F34;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.title h2 {
+    color: #224F34;
+    font-size: 56px;
+}
+
+.title p {
+    color: #224F34;
+    font-size: 18px;
+}
+
+.des-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.des-product span {
+    margin-bottom: 10px;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 80px;
+    gap: 30px;
+}
+
+.row2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 80px;
+    gap: 30px;
+}
+
+.btn-product {
+    border: 1px solid #224F34;
+
+}
+
+.our-product {
+    margin-bottom: 100px;
+}
+
+.color {
+    color: #224F34;
+}
+
+
+.excluise-info {
+    margin-top: 60px;
+}
+
+.box {
+    font-weight: 700;
+    font-size: 22px;
+    flex-direction: column;
+    color: #224F34;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-right: 35px;
+
+}
+
+.feedback-conter {
+    width: 434px;
+    height: 253px;
+    box-shadow: 5px 10px 2px -1px whitesmoke;
+
+}
+
+/* Footer */
+.footer {
+
+    background-color: white;
+
+}
+
+.footer-logo {
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-logo p {
+    font-size: 46px;
+    font-weight: 700;
+    color: white
+}
+
+.footer-logo span {
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 3px;
+}
+
+.footer-link {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    color: #252525;
+    font-size: 20px;
+}
+
+.footer-link li {
+    cursor: pointer;
+    color: white
+}
+
+.footer-social {
+    display: flex;
+    gap: 20px;
+
+}
+
+.footer-icons-container {
+    border: none;
+}
+
+.footer-copyright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 30px;
+    margin-top: 150px;
+
+}
+
+.footer-copyright hr {
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    height: 2px;
+    background: white;
+
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.btn-footer input {
+    padding: 20px;
+    height: 57px;
+    background: transparent;
+    border: 2px solid #A3F3BE;
+
+
+}
+
+.btn-footer button {
+    background: #A3F3BE;
+    height: 57px;
+    border: none;
+    border-radius: none;
+}
+
+.btn-footer input::placeholder {
+    color: white;
+}
+
+.product {
+    margin: 50px 50px 50px 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.col {
+    margin: 0 auto;
+}
